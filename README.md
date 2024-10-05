@@ -30,7 +30,7 @@
 
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/movie-recommendation.git</code></pre>
+    <pre><code>git clone https://github.com/AdrianoFerreiraOliveira/introducao-data-science.git</pre>
   </li>
   <li>Install the dependencies:
     <pre><code>pip install -r requirements.txt</code></pre>
